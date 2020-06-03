@@ -2,6 +2,8 @@
     "name": "lrtest/calc",
     "description": "Calc for pacakage studing",
     "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "R.G",
